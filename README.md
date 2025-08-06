@@ -1,49 +1,47 @@
-# 🔥 Brand Website Redesign (AI-Powered)
+# 👟 Nike Website – AI-Powered Redesign
 
-Redesign of a favorite brand’s website using modern web technologies and AI-powered tools.  
-The project delivers an improved user experience, fresh visual identity, and powerful CMS integration.
+A modern rebranding of the official **Nike** website, crafted with cutting-edge frontend technologies and AI-generated design assets. This project enhances Nike’s iconic digital presence with an elevated user experience, sleek UI, and streamlined content management.
 
 ---
 
-## 📌 Project Summary
+## 📌 Project Overview
 
 **Objective:**  
-Redesign the official website of a favorite brand with a modern, responsive, and SEO-optimized UI using AI-enhanced workflows.
+To reimagine Nike’s website by combining bold design aesthetics with AI tools for faster development and impactful visuals. This redesign maintains Nike’s brand essence — innovation, performance, and simplicity — while improving accessibility and user engagement.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Frontend
-- **Next.js** – React framework for server-side rendering and routing
-- **Tailwind CSS** – Utility-first CSS for building custom designs
+- **Next.js** – React-based framework for performance and SEO
+- **Tailwind CSS** – Utility-first CSS for responsive and modern styling
 
 ### 🔹 Backend
-- **Strapi** *(or)* **Firebase** – Headless CMS / real-time database and auth
+- **Strapi** (or **Firebase**) – CMS and database for dynamic content management
 
 ### 🔹 AI Tools Used
-- **Durable** – AI-powered website structure and layout suggestions  
-- **Adobe Firefly** – Logo, icons, and color palette generation using AI  
+- **Durable** – AI-generated layout structure and section planning  
+- **Adobe Firefly** – Branding assets such as logos, banners, and color themes
 
 ---
 
 ## 🎯 Key Features
 
-✔ **Modern UI/UX:** Clean, minimal, and brand-aligned design  
-✔ **AI Branding Elements:** Custom-generated logo, color scheme, and font pairing  
-✔ **CMS Integration:** Easily editable content through Strapi or Firebase backend  
-✔ **Mobile First:** Fully responsive for all screen sizes  
-✔ **SEO Optimization:** Proper meta tags, performance tuning & accessibility  
-✔ **Fast Performance:** Server-side rendering with optimized images and code splitting  
+✔ **Nike-inspired Modern UI/UX**  
+✔ **AI-generated Brand Assets** (custom logo variations, hero sections, color schemes)  
+✔ **CMS Integration** (manage product drops, athlete stories, blogs)  
+✔ **Responsive Design** (mobile-first experience)  
+✔ **SEO Optimization** with server-side rendering  
+✔ **Optimized Performance** with lazy loading and image optimization  
 
 ---
 
-## 🖼️ Design Inspiration
+## 🎨 Design Philosophy
 
-Brand redesign inspired by:
-- Current design trends (2025)
-- AI-driven wireframes and design patterns
-- Minimalist UI with high readability and vibrant visual hierarchy
+- Sleek and powerful interface that aligns with Nike’s athletic and innovative tone  
+- Emphasis on bold typography, whitespace, and impactful product imagery  
+- Enhanced navigation to explore new drops, categories, and stories
 
 ---
 
@@ -51,11 +49,11 @@ Brand redesign inspired by:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/brand-redesign.git
-cd brand-redesign
+git clone https://github.com/your-username/nike-redesign.git
+cd nike-redesign
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Start the dev server
 npm run dev
